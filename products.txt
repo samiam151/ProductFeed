@@ -1,0 +1,12 @@
+﻿Brand	Model	Size	Price	SKU	Option1	Option2	Option3
+Trek	Domane S5	60cm	3299.00	5518801	Shimano Ultegra	11-32	Black
+Trek	Emonda SL6	55cm	4500.00	7468219	Shimano Ultegra	11-32	Red/White
+Trek	Emonda SL6	58cm	4500.00	7838285	Shimano Ultegra	11-32	Red/White
+Trek	Emonda SL6	60cm	4500.00	583933	Shimano Ultegra	11-32	Red/White
+Trek	Speed Concept	58cm	5500.00	8475738	Shimano Dura-Ace	11-28	Yellow
+Trek	Speed Concept	60cm	5500.00	8477473	Shimano Dura-Ace	11-28	Yellow
+Specialized	Allez	55cm	1899.00	5355662	Shimano 105	11-32	Yellow
+Specialized	S-Works	60cm	3500.00	5537274	SRAM eTap	11-26	White/Black
+Specialized	S-Works	58cm	3500.00	5534224	SRAM eTap	11-28	Green/White
+Pinarello	Dogma	52cm	7500.00	2241622	Shimano Dura-Ace	11-28	Black/White
+Pinarello	Domga	54cm	7500.00	2253635	Shimano Dura-Aace	11-28	Black/White
